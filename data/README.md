@@ -1,4 +1,7 @@
-# 数据说明
+# 数据说明（首版20案）
+
+> **v2说明**：本目录的20条案例及114条保存件索引是首版历史基线，不代表新[Issue #4](https://github.com/Sisu-z/persona-commerce-research/issues/4)匿名/不露脸商业人设研究已采到合格样本。新任务遵循[新版方法](../docs/methodology.md)与[现场SOP](../docs/field-method-v2.md)，原始记录不得因文件存在而冒充新证据。
+
 
 `cases.jsonl` 每行一个主体，正文以 `document` 指向的案例为准。字段包括 ID、原采集 ID、类别、观察日期、P 路径层级、T 成交实证层级、价格记录、来源及证据档案标识。不同商品放各自价格行，`conditions` 不能丢弃；不得只抽金额作现价排行榜。`paid_or_delivered_by_researcher` 与 `premium_causality_verified` 本轮全部为 false。
 
