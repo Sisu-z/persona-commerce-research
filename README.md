@@ -6,7 +6,7 @@
 
 > **当前唯一任务：[B-002 匿名／品牌型人设账号真实商业链研究](https://github.com/Sisu-z/persona-commerce-research/issues/4)，进度以该Issue为准。** [旧 Issue #1](https://github.com/Sisu-z/persona-commerce-research/issues/1) 关闭仅代表首版资料交付，不代表本目标已研究完成。
 
-最新实质成果：[v2首轮内容、作品与询价链](reports/v2-first-checkpoint-2026-10-19.md)。三个实读账号中，最忆/呈白是同品类采购场景对照，另有当前停单的小雨皮具；不能计为三份独立需求验证，也未证明人设溢价。先审方向再扩样。
+最新实质成果：[v2第二轮：角色、买方选择与交易断点](reports/v2-deep-persona-2026-10-19.md)。新增咪莫莫、出山志物、猫啃与也字工厂的内容/作品、使用/授权疑虑与实际承接；纠正按作品好看推高价的解释。首轮已获用户认可，七个主对象仍不足原计划10–15，不以补数或PR合并宣布完成。[首轮](reports/v2-first-checkpoint-2026-10-19.md)保留作版本历史。
 
 ## 先读
 
