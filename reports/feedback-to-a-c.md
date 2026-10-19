@@ -1,4 +1,7 @@
-# 给A与C的有界反馈
+# 给A与C的有界反馈（首版历史）
+
+> 仅反映旧 B06/B15 与2026-10-19复审；不再指导[新版B-002](https://github.com/Sisu-z/persona-commerce-research/issues/4)优先研究成熟实名IP，也不将旧A的Excel/剪辑小单视为新项目重点。新工作以[宪章](../docs/charter.md)为准。
+
 
 2026-10-19复审。这里是建议与证据接口，不自动修改A排序或C方法论。
 
