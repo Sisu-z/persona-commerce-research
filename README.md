@@ -4,7 +4,9 @@
 
 研究的是**人设作为商业获客与溢价工具**，而不是教用户露脸讲真实生活，也不是主要整理名人的个人品牌经历。
 
-> **当前唯一任务：[B-002 匿名／品牌型人设账号真实商业链研究](https://github.com/Sisu-z/persona-commerce-research/issues/4) — 待执行。** [旧 Issue #1](https://github.com/Sisu-z/persona-commerce-research/issues/1) 关闭仅代表首版资料交付，不代表本目标已研究完成。
+> **当前唯一任务：[B-002 匿名／品牌型人设账号真实商业链研究](https://github.com/Sisu-z/persona-commerce-research/issues/4)，进度以该Issue为准。** [旧 Issue #1](https://github.com/Sisu-z/persona-commerce-research/issues/1) 关闭仅代表首版资料交付，不代表本目标已研究完成。
+
+最新实质成果：[v2首轮内容、作品与询价链](reports/v2-first-checkpoint-2026-10-19.md)。三个实读账号中，最忆/呈白是同品类采购场景对照，另有当前停单的小雨皮具；不能计为三份独立需求验证，也未证明人设溢价。先审方向再扩样。
 
 ## 先读
 
