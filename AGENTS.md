@@ -1,6 +1,8 @@
 # 协作约定
 
-先读 README、HANDOFF，再读唯一任务源 [Issues](https://github.com/Sisu-z/persona-commerce-research/issues)。当前研究由 Issue #1 管理；不另建一套任务状态表。
+先读 README、HANDOFF，再读唯一任务源 [Issues](https://github.com/Sisu-z/persona-commerce-research/issues)。Issue #1关闭的是首版；本轮是用户要求的改进候选，未上传前不假造新Issue或已接收状态，后续任务状态继续以实际Issues为准，不另建平行状态表。
+
+本轮复审先读reports/synthesis.md。少量深拆具体内容/作品，不再扩成熟大号充数；旧三项起步方案的推荐含义已撤回。上传也按用户本轮要求逐项授权。
 
 本项目 B 研究人设如何支持交易。A 研究卖什么，C 沉淀商业判断。跨项目发现写建议和证据链接，不替 A 排序，也不擅自改 C。沿用 project-team-playbook 0.3.0，固定版本 `286bdec328cde8d7593a08308ea47d794ef081da`，按轻量研究项目裁剪；不因使用指南安装额外平台。
 
